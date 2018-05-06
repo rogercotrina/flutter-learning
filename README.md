@@ -2,13 +2,13 @@
 
 ## Official Documentation
 
-[Official website] (https://flutter.io/)
+[Official website](https://flutter.io/)
 
-[Google Codelabs] (https://flutter.io/codelabs/)
+[Google Codelabs](https://flutter.io/codelabs/)
 
 ## Articles
 
-[Flutter for Android developers] (https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)
+[Flutter for Android developers](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)
 
 ## Samples
 
